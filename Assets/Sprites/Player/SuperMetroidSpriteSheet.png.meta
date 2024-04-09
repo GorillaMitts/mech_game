@@ -1,0 +1,6397 @@
+fileFormatVersion: 2
+guid: 03da120e104494fe89c030a57807d45c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 804
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26f010838e70490b8b2ecc249aed6ae
+      internalID: -2039260468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 804
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89456ea3b23488292afbaec04740a1
+      internalID: 626289603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 804
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48657fd0498c4c328476c116089725d
+      internalID: 1733279783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 804
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fb4763b60b4f539b686047c1a5682
+      internalID: -987928512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 804
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9604e8a48ad8d44a2bccf587e95881c0
+      internalID: 1010378865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 804
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0acb74b1d9242ce8a88af5db01e97c
+      internalID: 1703166084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 838
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f11e0bb43842c1a206c3d8c30da08
+      internalID: 1048413027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 824
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7dd442a8774c90a41d7794a154862
+      internalID: -627354126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 824
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c5863867e34be8a1512a56b1f6552
+      internalID: -450909269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb159a12833c64022a89604a33463f38
+      internalID: -920515242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 837
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96486b433648841948efd2b498715838
+      internalID: -404879877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 842
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f821c2219a4c7480bc2be0758beae
+      internalID: 44061846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 839
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9551bd8d56f4826919876c246e36b1
+      internalID: 971551542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 842
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f060365640594d9d9e6e8c705a3344d
+      internalID: -838007756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 837
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4dd8c0eddd421bb00ed5d4abcbf9a
+      internalID: 588823868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 827
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc6e2a7845a4873a4311e3b344bddb
+      internalID: -1199559136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 827
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90525b00c3364b259fa69c4fd30a72a
+      internalID: 1999204554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7d0afc295e42ff9576c1cc11efdec
+      internalID: -1337501078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac306f22b11864d59b6d4a27447e056b
+      internalID: 1973139400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 823
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861fd2a958bb24dbb8558180ad9b4736
+      internalID: 788930336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 822
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228811b641cb4f049e015f6625bf281
+      internalID: -908597161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 822
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d740122e654decb9f60442dcc98ec
+      internalID: 1100328515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 822
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518388b3027b44592ba6f368a2bec193
+      internalID: 283795241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27192ddfa444546cca10a43799f8a543
+      internalID: 336329125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 820
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de09468af0df489a875d6a6456cdbc2
+      internalID: 1053176296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 824
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd61b1112bd7438580ecccee11dcdbb
+      internalID: 957944319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c6eb3203ea4456b78915fcf34089d
+      internalID: 560060230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515b83a225084f9fb6d486396f93a25
+      internalID: 925093830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51820f9581f48479ec2993ed453ad6
+      internalID: 552372054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 824
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d223fe05c94cc795992d736d9dfc5
+      internalID: -1208851053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 824
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd69f36aa32d43f18f1ec332da88a55
+      internalID: 1437651589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 825
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae85605255234c06811048d14bfbebd
+      internalID: 643716664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 826
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc954efc82a784246a4c8209f2c10c34
+      internalID: 1390746432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 814
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9878da405047e28e7c2a6329e584a
+      internalID: -1575658531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 812
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8aaa61ab594090bc1f8a1ae956e0a
+      internalID: -1131433645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 808
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93744b426d844f28d347c0affc9dd5
+      internalID: 1298518355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 817
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169cdc2d640f4b538a6de7b10843564
+      internalID: 639954117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 750
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffc1a7f64e8475cb0706b71adee986
+      internalID: 1574751333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 805
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f883286afe44c396c3b90ea44606c
+      internalID: 754913877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 757
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c289139e4d4c0883c2dbc360d7582
+      internalID: -1046109744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 764
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a08dcb32ee32423c84375c5e4779752
+      internalID: -2065321203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 745
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb383b7d5a38844b18577957c83591c9
+      internalID: -1591967864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 748
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dd0e23beba4978805c7e034e58b4e
+      internalID: -355703631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 748
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5eda6bd73b341189f8e503b913de78
+      internalID: -1273449112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 749
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004b0c87b2dc41a5b0e318b37f64b7b
+      internalID: -521391132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 751
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c713d26eba59c4e029111f9b447d1dea
+      internalID: -190370223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 798
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f72612200ab4812b649e5c94591fc2
+      internalID: -1349502589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 781
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d46d8b5ac547d0b51dfaac3b42923
+      internalID: -1999568203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 748
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcdc839a1822440da8f10b82102cd94
+      internalID: 1821947848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 748
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebfc82daf2db4b8f87c1a32a6fa967e
+      internalID: -1174699437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 748
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4a16d9403b424eb24cad69520a2d2
+      internalID: 1279780812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef1bfe6963045aba194e50595f5ed2
+      internalID: -1912403609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b807bb3dd82d04493a596982b67826ee
+      internalID: -1034589042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81feb459bb4d64708b3dcd5f9dd7d733
+      internalID: 251459402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e385749a3344d6f87ab28575106ab5
+      internalID: -2022511579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094e650fab8344a182e4905ea44ed4b
+      internalID: -1138493474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 748
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6f24c99f3b45b89faba7ecb5278c5
+      internalID: -569435562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 746
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a15e9e5687945de93e165880890ba2
+      internalID: 68828585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 746
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c004be3bcd45b6abddc1e82d567f2
+      internalID: -600811162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 746
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe54c57508244679d11fddb7edffe5
+      internalID: 1135272623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 746
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5b401960b248eb9e667c702dedd45
+      internalID: -1808247094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 746
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba977fd6f7b46f785f1cfaa074678e
+      internalID: -1173645368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 748
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80dce73b97834db5ada39530b75475a
+      internalID: -104981418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 748
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1399db1f0049279fdab5cc9252563
+      internalID: 1084618960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 748
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7988a6bb12c43b29825a5109bb8a00
+      internalID: 294976902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 751
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcbc9bcdc9ba401ea33567e5ae17951
+      internalID: -242888245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 751
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9070f97549d4c878319d8fd9989b25
+      internalID: -1826084996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 786
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e2a00d2c99442ea4d79db85b15303
+      internalID: 603929265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 775
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42eed615d094935a724229bf39cee8
+      internalID: 415958665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 745
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d4be8fe4dc4f09814cda2d2e0370b
+      internalID: -648260118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 745
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538d5598862df4dde837c34f235f368d
+      internalID: -1560272451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 746
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b07b45cce134c9498f4d9197301427
+      internalID: 1291974537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 746
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ab6c4df2514edd9f51014eaadcc4d
+      internalID: 95892052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 776
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9cf80c1ac14e85981e591e26f4e15
+      internalID: -1836902293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 778
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1c9172c6a743ee93dbdabe57b05aa
+      internalID: 629015713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 748
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5eb6940872457795c9595d74084cf
+      internalID: -982645461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 684
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defb038ad81546c287c1af64568450a
+      internalID: -1586541167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 684
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc68cd54b21c4d3eaf2ebac2ebce3c3
+      internalID: -706404258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 684
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03864833f24c74bb3885ebccc0ebbcb7
+      internalID: 2012211612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 684
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6849c6b0d774c819ff6b4b0e6d7c24
+      internalID: 1816305373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 684
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f37e5b12031442d8535ffa023c7bc4
+      internalID: -1893512161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 684
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118bb5ac9e16f4e1296465c71f9ee00b
+      internalID: -881808433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 684
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8471bf849cef454a92eb90652393abc
+      internalID: 30964260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 684
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25aab85165547e4aef5d621a46352d
+      internalID: -204586985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 684
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127490012119494aa5f10a4a914aee9
+      internalID: -1953066823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 694
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae15dda86b3b94fde97ce8ead30d0e15
+      internalID: -1287033041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 694
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00507ac95c7e74d82946c3835152d3ee
+      internalID: -713623198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 694
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142cce91195c24feab02b858cc0e0a47
+      internalID: -2025698350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 694
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0006bea185a4e6e80c8e06c30fe584
+      internalID: 1208552607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 694
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3985b6faa44d6f9f8b44733230e24
+      internalID: -757500980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 694
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9919236aa2dc64858853445bfd3392de
+      internalID: -1320410896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 694
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f3fd1f7014439e908452c66dda06c
+      internalID: 2116632217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 694
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f209add3af49d28379f25e8a5b481
+      internalID: -1366506066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 692
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2759ffaa564134808416c535d55d0
+      internalID: 2083986481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 692
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e49a2d43964752aed671e7199bea1
+      internalID: -1022422004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 692
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd255cf66fb4ee58ef0e7686b928fc
+      internalID: -1769014391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 691
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b1c9d0c1c6466a83f7b498e9b57ca
+      internalID: 1392839871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 691
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9fe580d52a48509276a2ab48512c6
+      internalID: 828474405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 691
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389eaddf58e564585837609d166e56d4
+      internalID: -2107050926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 690
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73635eddde72422f82245052f04b82e
+      internalID: 1809426498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 691
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27de3a422a2f4176b9106cb01ec1f73
+      internalID: 1553499962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 693
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0438d29c114795a28d81e99473057
+      internalID: 997053133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 693
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57546941607bf41b4901040ae7ebd18d
+      internalID: 1124712301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 694
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3976e561fc0a4c4ab7df267fcb529ac
+      internalID: -848210513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 628
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f72ba0d9bde4c62be31eabcf60b9cd
+      internalID: 2109072318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 628
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad11de18459459b8519ddbded1ce72
+      internalID: -717513594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 628
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd587e5f06d384b5e9380d597dfbaffa
+      internalID: -565311138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 628
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9fc2622ec14a67a4561ede12893a2
+      internalID: -1553792255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 628
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a0bdd4036545f5a672e6bc5057b8d
+      internalID: -1231566880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 628
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7782faa4865428880bad57e73eb4c0
+      internalID: 363132588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 628
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6125c013744275a76cc1f8645ab82
+      internalID: -551551760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 627
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf7f3d7987314127923ec064b9648de
+      internalID: 502230507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 627
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e97adfd816c48118970b5bc231800b
+      internalID: -2102051867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 634
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a57b47581045baa056b3c191dd429
+      internalID: 532680550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 644
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feecbf0fdd12492ea19ae49ce7c61a2
+      internalID: 1059917172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 644
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfeaf49c269844278c379c4a263175a
+      internalID: -1978800736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 644
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde39980f174d4770ad36f449359b25a
+      internalID: -159196263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 644
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c2fd680ba94f238c417d4acf6fc9e
+      internalID: 615099592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 644
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c33cc35ecb41cf9cfbd5fd3231528
+      internalID: 1235568451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 644
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f103ec32fa41e09360e2e2b84fd4c
+      internalID: -2043964822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 644
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a057fa571684fcbba808c546a8f6a7
+      internalID: 1767701396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 644
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800160af680cb42478ecfd945bc013c1
+      internalID: -1804510360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 644
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee991253d738d4512ab212a1afa7ce30
+      internalID: -964056429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 644
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58035013def14471a4ea740dfad875d
+      internalID: 1150693796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 644
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00c2f617b6c4a62b37180e50c69652
+      internalID: 130591892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 644
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb1ca11de4a41f3a97c57a1e6f341f
+      internalID: 662726542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 644
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1dbc44e3e74a9fa9cd4be3ccbe122
+      internalID: -1502572823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 644
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ac38efb7f54db39feddf8dbcc4f0f
+      internalID: -960636340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 644
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e0d0f57f8b4cd8bd45af2fec6d654
+      internalID: 1402856104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 644
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576416b7c9aa459eaeaa75dc9f77c05
+      internalID: 1414543589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 644
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4bbb47bd864f1f9c251599d175d82
+      internalID: 1602022651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 644
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27845545da9c495ba51ba278421392d
+      internalID: 802631342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 584
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09706c8b5f854bbfb4c71007863acf5
+      internalID: 1963482741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 584
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296ed5a3b714c4e7f8b05ec4ea232059
+      internalID: -579902716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91d58d10dd949ccae785455aa83ffb
+      internalID: 17707381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 584
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e48d391ddb46df97c24bbd223ceef
+      internalID: 86328655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 584
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577917d1b55c4bd2a2ec50e373adc86
+      internalID: -1672991883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 584
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfeb6c1020142d782e515e731b19ab
+      internalID: -2017626984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 583
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309745a73acdb4f6497c2871c783093f
+      internalID: -928984996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 584
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9acd8559c864ec9bb53a6c9f338b2b
+      internalID: 1883963915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 584
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbaac50caed429d8d3259651205642
+      internalID: -592832955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 580
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16f42d2623941bdbe210922845876d
+      internalID: -1085210896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 580
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674549f9b38c464697e7c4273c9290e
+      internalID: -1058314727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 580
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdd9abf19cd40129113dda8070f01b
+      internalID: 1147193087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 580
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f03a70c26ed41678557c40b6d96716
+      internalID: 1928514940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 580
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c4de83f8bb4027b7097967fa2753c
+      internalID: 1210866641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 580
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89aa3f0008741b4920a621290edc85
+      internalID: 1763016295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 580
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ee01a05d8b418ba5c97cc7c2cf7ed
+      internalID: -1498860560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 580
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1d4e6eb8ae4c50959161db163b051
+      internalID: -870391377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 580
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bb62ff041f48b0a2ff4d1921e0d48
+      internalID: 489184136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 580
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdeaba6f67dd48728c6b8f6c28bea59
+      internalID: -2137127035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 580
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1937ca47c98a4dd59b41b932a79fe8a
+      internalID: -1404803265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 580
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4fafcec4994e37861e13ed1f8b3ec
+      internalID: -74383201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 580
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853516238256b477487b23025edc636f
+      internalID: -1790703775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 580
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fecfd3556a84a08a7c7fb4289e9519
+      internalID: 666028322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 580
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bec39b359924d2096889822f705a02
+      internalID: 1038190903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 580
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635d1753a4134b6f81bae7a0d839891
+      internalID: -1530349392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 580
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e929d8ae2649729b6dc90266005e7
+      internalID: -1209038584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 524
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08889339abe48dd87b554b163952dd
+      internalID: -1869190898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 524
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b40094967ee6419ea405d5bc552c19a
+      internalID: -1513569340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 524
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d68720d7644faa86daf002eaa7d93
+      internalID: 990000883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 524
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a396b634ac443caa9776df4f2adec
+      internalID: 40614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 524
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e766cc4add8d4047b3cf5284d7f0d73
+      internalID: 101309766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 524
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5147ee51bc2a4ffe90714229871c511
+      internalID: -696419048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 524
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ce78f8404c4cbab07cc723f991edf
+      internalID: 1182961220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 524
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f959a8f6528b044d99e0479f75544323
+      internalID: 45067436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 524
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f233eef523df47bfafde0186c326a5b
+      internalID: -1977400260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 524
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe6bcdb3063d4033b4d9fcbefa21a8b
+      internalID: -2134952331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 516
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58010f3ce5b6d477d9590b2dbc39f091
+      internalID: 1192727549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 516
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07aa03d637d414f85c9564c22e97af
+      internalID: 136966492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 516
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c910c03a454b29accba2560c3aa57
+      internalID: 292306756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 512
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8384328bdffcd49ba8470c3840085402
+      internalID: 200492651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 512
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e499d6704d42efa3ab2fdb3f0661b
+      internalID: -461007249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 512
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1cad212d5f449fb073b86a10a6484
+      internalID: 1644365922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 512
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bea8ad4ee1947d38268fd2983293b2
+      internalID: -1489888418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 512
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3586afac0f4ccfa27bcc7cb4e090c
+      internalID: -1882675917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 512
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b273f33e9114b36bc3424048e096f0
+      internalID: 1006445820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 512
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faac5166a2b34db29e40b350a33be5d
+      internalID: 1173710646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 512
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0f3534bef247068c65721e8708b7a
+      internalID: 943691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 512
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f269f6a6db274d1a98ef0b86e64ebd3
+      internalID: 1214168898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 512
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f18883c42d44e99ec67ba7d206641
+      internalID: -22083854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 512
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b641f6624684e24a6df3ef1b9b004c
+      internalID: 106448847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 472
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70d44697a4145deb6c20946899864d
+      internalID: -1688470569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86076a3e9039d4a929abaa42385bb079
+      internalID: -1515785520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26fbd8e364584e02ab429ef0999d54e
+      internalID: -1912865357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed32ad3f7f5426086d8cf2c8dced03
+      internalID: -1528273718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b65fca6174045cb933e2497ac5a921
+      internalID: 1649851511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ede1de505804708a4258019c4bdeec
+      internalID: -285633755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 472
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46a50e374c1463eab502f68ade58e8
+      internalID: -1101011709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 472
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fd5166422c34a60a34999af45a7176
+      internalID: 723595336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 472
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea75d68e4d164f5bb074836a36f9579
+      internalID: -935701719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 472
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54094e35fde4ddebb4dc6921893886
+      internalID: 8589747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 472
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b2627523bc4c28b618533063ec2ff
+      internalID: -4081893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 472
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e34ba87a9a4f09add1acef03fdda1
+      internalID: -2137528662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 468
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c3b27322dc4d7cb0776c3d6ac3225
+      internalID: 1493593474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 468
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674b860b61e247fea6a99789f1eb150
+      internalID: 1131905592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 468
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc835112f31fe4f88ae5e43862e9d99c
+      internalID: -1699986747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 452
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1214a3f62d04ddabf2aa4acb4fbb3f
+      internalID: -1934750285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 452
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774587313ac740dc87216c855cde9a3
+      internalID: 149644438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 452
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76298c4dd9f3e44acb909130ba57d62f
+      internalID: 1672628609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 452
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf24ac1b0504105950d98831ac4737
+      internalID: 446462136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 452
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6491317eb8524664a919d24edf53ad7
+      internalID: -543342405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 452
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19a388177824a18bdce60e62fdee30
+      internalID: 1124102901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 452
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e846eeaf38b64003b49b5b414840d81
+      internalID: 582857431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 452
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47f00d0d7fee49f491dd44b1de8e1f9
+      internalID: 761778100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 452
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d95c2337b5a48948f75745908d4cc2
+      internalID: -1714956837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 452
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3497a038c0e0b4f429198807ad0c17f1
+      internalID: -1106250877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 452
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd67b3a26f084a8491a48a49d4d9a9e
+      internalID: -1002563372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 452
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc15836086c41249a47b3590e1d0a5
+      internalID: 2030167462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136726a4a9c144280b54ddf960f6e36f
+      internalID: -2048643831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcd8efab5fc40359301869050202d7
+      internalID: -72773792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cb9cd0d78944f89da09c53fdf0ac5
+      internalID: 1603832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 408
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156baebbb3fe4227a9090e9b9ce469d
+      internalID: -1674945765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 408
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf200540b19846d0bd4935aa7e65ecf
+      internalID: -1774778612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 408
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3fe94fb0cb74afebcd98f36c34cde3
+      internalID: 1160287256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 408
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe32183e7cc1471984187d1666c8401
+      internalID: 283608569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 408
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4939cc2b2a924b04ac1b5f35bc97be4
+      internalID: 268211593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 408
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc8192ba5a04cf691f1cb776207924
+      internalID: 30356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c980bcdddd6d4e06866e8bc2eca961c
+      internalID: 1724595419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 408
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe198f15f8454d5d8f08772e5b9a23a
+      internalID: 1939846421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 408
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2beb039b69e4962aae93b76d6f9a18
+      internalID: -1504436603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 408
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319811b7299754a2093a23079f65dc70
+      internalID: -1392895612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 408
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd06e6802d94c8e9ffb5c3de878d44
+      internalID: 906544283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 408
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d2ae25e28646fa9aee68d1dbcfc1d
+      internalID: 207853277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 408
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228385b4356cd4cd588dc4ad601e0418
+      internalID: 304838806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 396
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10441bfc9113c4d1788d20a920cdbb53
+      internalID: -842674779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 396
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec015fb9745b4ed0b264f06b11677fa
+      internalID: -989717840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 396
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c1903f196a4a9d8f83d573e80b636
+      internalID: -1090421638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 396
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be4f417aec74d109ee04ad9aa2216e
+      internalID: -1180787469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 396
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f40cc4d7a24d6cbf69d4ad122d7c2
+      internalID: 2112001656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 396
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7b8c94f7634f26ad35cca8429969e
+      internalID: 670677771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 396
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cabfaaf8d0e34b02a25fde65bcaf7ea
+      internalID: 579173992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 396
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a33d2b9e7f46bb819d8707eb13fff
+      internalID: -137363935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 396
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabdf57e68c747189b2e1b0fa4df63c
+      internalID: 405669340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 392
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e6b83910344aeebf3190d35ecd7f4
+      internalID: 386366919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd33a6f17dc044cea942937a495094e
+      internalID: 575890570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5055fcdf372743b7bf3a270ee38b4e1
+      internalID: -1960448594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 340
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2d8578ae054fa0b9da00d1c5c39f6
+      internalID: -877320712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e36975c5bf42dcbe2d480498195d2
+      internalID: 1834860958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 340
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c744622ff4f4c30a7a85382c557efd
+      internalID: 912796122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 340
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11620432e5234817917341b8bd276cf
+      internalID: -46731005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 340
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf655c1e7d414f858c07bcc5608575d
+      internalID: 506879043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 340
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534cba806a59d4c4eb2ec42b45b7d375
+      internalID: -693619387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 340
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aef69216cc548a896a371c7398ffce
+      internalID: -669561461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 340
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4336fbbff946b882e2c947a39a313
+      internalID: 1246673992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 340
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37ba296cbfb4859ad8f75e71a3de6f
+      internalID: -311500038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 340
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d6d8232ccac4a4d87b3705e3930efc
+      internalID: 1203916616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 344
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182c272e77f1498bac9c3a9ca9af960
+      internalID: -92019376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 343
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc58b2099d6e453db9d6258dc9dfe14
+      internalID: 549262612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 344
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde5a5d2f7ab42d5bdf0c4f40de0e9d
+      internalID: 2134954774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 340
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd8081158a44a4380ddf2ad6195e6b
+      internalID: -1249709992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 340
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862e820187444d858f575eb70f50691
+      internalID: 962249772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 340
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c08f879b7fc4bdc8e19a0ab824c06c
+      internalID: 822593215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 340
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040a540b879745a69f03ed97bb36935
+      internalID: -92662767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 340
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18a2ad9d5ec4fab8a9051829ea1cae
+      internalID: 53360544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 340
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffa4e19d260541828efe2eff2302915
+      internalID: 493220045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_256
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 340
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc3a5eef610b4bbdb4b97db6a6bb2a7
+      internalID: 973840595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_257
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 340
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc5287ec9504a7f99a6ceb5fdd9b1a
+      internalID: 1418604847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_258
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 340
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2297c065e28f040cda8cdce5ce67c1ba
+      internalID: -1474287751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_259
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 340
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed27f4f781d45a7ba0a79908654a02
+      internalID: -1351639884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_260
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 340
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4c55cf8b5e4d3c8f016d7c0152131
+      internalID: 119938542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_261
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 284
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466abf499709487493dac17953c5c75
+      internalID: -1587783599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_262
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 284
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f27a1f7d6684dda8c8a959df15d6e2
+      internalID: 309653869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_263
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 284
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952854fe4986f4837babd3b243256d71
+      internalID: 1415749718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_264
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 284
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81555974e5f114165a84ddfa0ec087ee
+      internalID: -1750738321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_265
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 284
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f786712b633241ed861925afb5d8a5a
+      internalID: -1264632787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_266
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 284
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070746ae2a21c446ebe5b6dd3f279704
+      internalID: -525324105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_267
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 284
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb657bbc1ff4bf39b76507a63d10a8
+      internalID: 63562495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_268
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 284
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78d7eed8779443cb97e22a446475a58
+      internalID: 5615578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_269
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 284
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802e4d5efa7547098da89f864f0da67
+      internalID: 1583514091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_270
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 284
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1781d2f9fc045dbadc406fa3de2b33
+      internalID: 628827411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_271
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 284
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1b336664884d3d83a9ee862985256
+      internalID: 472373594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_272
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 284
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7af36ebdda4aff8fbc476a7de0c1c
+      internalID: -1225152523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_273
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 284
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718364e0532c42b0bc51e0b69d712a4
+      internalID: -1650343145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_274
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f98abd8dc8b4376abc48ea02d1f747
+      internalID: -47326047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45bea2e62eca4b5f9b10ce0802541d9
+      internalID: 294195310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_276
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e9eb8eb5ad4fe19b2bfcfb9e62a33
+      internalID: -1002323922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_277
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632440ad533b340c3b983f612b197668
+      internalID: -1291603778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_278
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08a476c5e226447ca15a84e79332a1d
+      internalID: -184515780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_279
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f05ba01b404deeab50e830d2d9244
+      internalID: -858255040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_280
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336fe8a40273460f9ba0b1959cb031b
+      internalID: -1766562006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_281
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd26d86900da4bf48d5c0619eb03f2c
+      internalID: -900647446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_282
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0886067433954f8fb79280732b344aa
+      internalID: -1987564409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_283
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 284
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4399d7541094048bcfc9eb1dac1606
+      internalID: 1583365027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMetroidSpriteSheet_284
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 284
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3caa66fa48f4af28ed04b402084082
+      internalID: -1314078558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SuperMetroidSpriteSheet_0: -2039260468
+      SuperMetroidSpriteSheet_1: 626289603
+      SuperMetroidSpriteSheet_10: -404879877
+      SuperMetroidSpriteSheet_100: 1553499962
+      SuperMetroidSpriteSheet_101: 997053133
+      SuperMetroidSpriteSheet_102: 1124712301
+      SuperMetroidSpriteSheet_103: -848210513
+      SuperMetroidSpriteSheet_104: 2109072318
+      SuperMetroidSpriteSheet_105: -717513594
+      SuperMetroidSpriteSheet_106: -565311138
+      SuperMetroidSpriteSheet_107: -1553792255
+      SuperMetroidSpriteSheet_108: -1231566880
+      SuperMetroidSpriteSheet_109: 363132588
+      SuperMetroidSpriteSheet_11: 44061846
+      SuperMetroidSpriteSheet_110: -551551760
+      SuperMetroidSpriteSheet_111: 502230507
+      SuperMetroidSpriteSheet_112: -2102051867
+      SuperMetroidSpriteSheet_113: 532680550
+      SuperMetroidSpriteSheet_114: 1059917172
+      SuperMetroidSpriteSheet_115: -1978800736
+      SuperMetroidSpriteSheet_116: -159196263
+      SuperMetroidSpriteSheet_117: 615099592
+      SuperMetroidSpriteSheet_118: 1235568451
+      SuperMetroidSpriteSheet_119: -2043964822
+      SuperMetroidSpriteSheet_12: 971551542
+      SuperMetroidSpriteSheet_120: 1767701396
+      SuperMetroidSpriteSheet_121: -1804510360
+      SuperMetroidSpriteSheet_122: -964056429
+      SuperMetroidSpriteSheet_123: 1150693796
+      SuperMetroidSpriteSheet_124: 130591892
+      SuperMetroidSpriteSheet_125: 662726542
+      SuperMetroidSpriteSheet_126: -1502572823
+      SuperMetroidSpriteSheet_127: -960636340
+      SuperMetroidSpriteSheet_128: 1402856104
+      SuperMetroidSpriteSheet_129: 1414543589
+      SuperMetroidSpriteSheet_13: -838007756
+      SuperMetroidSpriteSheet_130: 1602022651
+      SuperMetroidSpriteSheet_131: 802631342
+      SuperMetroidSpriteSheet_132: 1963482741
+      SuperMetroidSpriteSheet_133: -579902716
+      SuperMetroidSpriteSheet_134: 17707381
+      SuperMetroidSpriteSheet_135: 86328655
+      SuperMetroidSpriteSheet_136: -1672991883
+      SuperMetroidSpriteSheet_137: -2017626984
+      SuperMetroidSpriteSheet_138: -928984996
+      SuperMetroidSpriteSheet_139: 1883963915
+      SuperMetroidSpriteSheet_14: 588823868
+      SuperMetroidSpriteSheet_140: -592832955
+      SuperMetroidSpriteSheet_141: -1085210896
+      SuperMetroidSpriteSheet_142: -1058314727
+      SuperMetroidSpriteSheet_143: 1147193087
+      SuperMetroidSpriteSheet_144: 1928514940
+      SuperMetroidSpriteSheet_145: 1210866641
+      SuperMetroidSpriteSheet_146: 1763016295
+      SuperMetroidSpriteSheet_147: -1498860560
+      SuperMetroidSpriteSheet_148: -870391377
+      SuperMetroidSpriteSheet_149: 489184136
+      SuperMetroidSpriteSheet_15: -1199559136
+      SuperMetroidSpriteSheet_150: -2137127035
+      SuperMetroidSpriteSheet_151: -1404803265
+      SuperMetroidSpriteSheet_152: -74383201
+      SuperMetroidSpriteSheet_153: -1790703775
+      SuperMetroidSpriteSheet_154: 666028322
+      SuperMetroidSpriteSheet_155: 1038190903
+      SuperMetroidSpriteSheet_156: -1530349392
+      SuperMetroidSpriteSheet_157: -1209038584
+      SuperMetroidSpriteSheet_158: -1869190898
+      SuperMetroidSpriteSheet_159: -1513569340
+      SuperMetroidSpriteSheet_16: 1999204554
+      SuperMetroidSpriteSheet_160: 990000883
+      SuperMetroidSpriteSheet_161: 40614
+      SuperMetroidSpriteSheet_162: 101309766
+      SuperMetroidSpriteSheet_163: -696419048
+      SuperMetroidSpriteSheet_164: 1182961220
+      SuperMetroidSpriteSheet_165: 45067436
+      SuperMetroidSpriteSheet_166: -1977400260
+      SuperMetroidSpriteSheet_167: -2134952331
+      SuperMetroidSpriteSheet_168: 1192727549
+      SuperMetroidSpriteSheet_169: 136966492
+      SuperMetroidSpriteSheet_17: -1337501078
+      SuperMetroidSpriteSheet_170: 292306756
+      SuperMetroidSpriteSheet_171: 200492651
+      SuperMetroidSpriteSheet_172: -461007249
+      SuperMetroidSpriteSheet_173: 1644365922
+      SuperMetroidSpriteSheet_174: -1489888418
+      SuperMetroidSpriteSheet_175: -1882675917
+      SuperMetroidSpriteSheet_176: 1006445820
+      SuperMetroidSpriteSheet_177: 1173710646
+      SuperMetroidSpriteSheet_178: 943691146
+      SuperMetroidSpriteSheet_179: 1214168898
+      SuperMetroidSpriteSheet_18: 1973139400
+      SuperMetroidSpriteSheet_180: -22083854
+      SuperMetroidSpriteSheet_181: 106448847
+      SuperMetroidSpriteSheet_182: -1688470569
+      SuperMetroidSpriteSheet_183: -1515785520
+      SuperMetroidSpriteSheet_184: -1912865357
+      SuperMetroidSpriteSheet_185: -1528273718
+      SuperMetroidSpriteSheet_186: 1649851511
+      SuperMetroidSpriteSheet_187: -285633755
+      SuperMetroidSpriteSheet_188: -1101011709
+      SuperMetroidSpriteSheet_189: 723595336
+      SuperMetroidSpriteSheet_19: 788930336
+      SuperMetroidSpriteSheet_190: -935701719
+      SuperMetroidSpriteSheet_191: 8589747
+      SuperMetroidSpriteSheet_192: -4081893
+      SuperMetroidSpriteSheet_193: -2137528662
+      SuperMetroidSpriteSheet_194: 1493593474
+      SuperMetroidSpriteSheet_195: 1131905592
+      SuperMetroidSpriteSheet_196: -1699986747
+      SuperMetroidSpriteSheet_197: -1934750285
+      SuperMetroidSpriteSheet_198: 149644438
+      SuperMetroidSpriteSheet_199: 1672628609
+      SuperMetroidSpriteSheet_2: 1733279783
+      SuperMetroidSpriteSheet_20: -908597161
+      SuperMetroidSpriteSheet_200: 446462136
+      SuperMetroidSpriteSheet_201: -543342405
+      SuperMetroidSpriteSheet_202: 1124102901
+      SuperMetroidSpriteSheet_203: 582857431
+      SuperMetroidSpriteSheet_204: 761778100
+      SuperMetroidSpriteSheet_205: -1714956837
+      SuperMetroidSpriteSheet_206: -1106250877
+      SuperMetroidSpriteSheet_207: -1002563372
+      SuperMetroidSpriteSheet_208: 2030167462
+      SuperMetroidSpriteSheet_209: -2048643831
+      SuperMetroidSpriteSheet_21: 1100328515
+      SuperMetroidSpriteSheet_210: -72773792
+      SuperMetroidSpriteSheet_211: 1603832178
+      SuperMetroidSpriteSheet_212: -1674945765
+      SuperMetroidSpriteSheet_213: -1774778612
+      SuperMetroidSpriteSheet_214: 1160287256
+      SuperMetroidSpriteSheet_215: 283608569
+      SuperMetroidSpriteSheet_216: 268211593
+      SuperMetroidSpriteSheet_217: 30356480
+      SuperMetroidSpriteSheet_218: 1724595419
+      SuperMetroidSpriteSheet_219: 1939846421
+      SuperMetroidSpriteSheet_22: 283795241
+      SuperMetroidSpriteSheet_220: -1504436603
+      SuperMetroidSpriteSheet_221: -1392895612
+      SuperMetroidSpriteSheet_222: 906544283
+      SuperMetroidSpriteSheet_223: 207853277
+      SuperMetroidSpriteSheet_224: 304838806
+      SuperMetroidSpriteSheet_225: -842674779
+      SuperMetroidSpriteSheet_226: -989717840
+      SuperMetroidSpriteSheet_227: -1090421638
+      SuperMetroidSpriteSheet_228: -1180787469
+      SuperMetroidSpriteSheet_229: 2112001656
+      SuperMetroidSpriteSheet_23: 336329125
+      SuperMetroidSpriteSheet_230: 670677771
+      SuperMetroidSpriteSheet_231: 579173992
+      SuperMetroidSpriteSheet_232: -137363935
+      SuperMetroidSpriteSheet_233: 405669340
+      SuperMetroidSpriteSheet_234: 386366919
+      SuperMetroidSpriteSheet_235: 575890570
+      SuperMetroidSpriteSheet_236: -1960448594
+      SuperMetroidSpriteSheet_237: -877320712
+      SuperMetroidSpriteSheet_238: 1834860958
+      SuperMetroidSpriteSheet_239: 912796122
+      SuperMetroidSpriteSheet_24: 1053176296
+      SuperMetroidSpriteSheet_240: -46731005
+      SuperMetroidSpriteSheet_241: 506879043
+      SuperMetroidSpriteSheet_242: -693619387
+      SuperMetroidSpriteSheet_243: -669561461
+      SuperMetroidSpriteSheet_244: 1246673992
+      SuperMetroidSpriteSheet_245: -311500038
+      SuperMetroidSpriteSheet_246: 1203916616
+      SuperMetroidSpriteSheet_247: -92019376
+      SuperMetroidSpriteSheet_248: 549262612
+      SuperMetroidSpriteSheet_249: 2134954774
+      SuperMetroidSpriteSheet_25: 957944319
+      SuperMetroidSpriteSheet_250: -1249709992
+      SuperMetroidSpriteSheet_251: 962249772
+      SuperMetroidSpriteSheet_252: 822593215
+      SuperMetroidSpriteSheet_253: -92662767
+      SuperMetroidSpriteSheet_254: 53360544
+      SuperMetroidSpriteSheet_255: 493220045
+      SuperMetroidSpriteSheet_256: 973840595
+      SuperMetroidSpriteSheet_257: 1418604847
+      SuperMetroidSpriteSheet_258: -1474287751
+      SuperMetroidSpriteSheet_259: -1351639884
+      SuperMetroidSpriteSheet_26: 560060230
+      SuperMetroidSpriteSheet_260: 119938542
+      SuperMetroidSpriteSheet_261: -1587783599
+      SuperMetroidSpriteSheet_262: 309653869
+      SuperMetroidSpriteSheet_263: 1415749718
+      SuperMetroidSpriteSheet_264: -1750738321
+      SuperMetroidSpriteSheet_265: -1264632787
+      SuperMetroidSpriteSheet_266: -525324105
+      SuperMetroidSpriteSheet_267: 63562495
+      SuperMetroidSpriteSheet_268: 5615578
+      SuperMetroidSpriteSheet_269: 1583514091
+      SuperMetroidSpriteSheet_27: 925093830
+      SuperMetroidSpriteSheet_270: 628827411
+      SuperMetroidSpriteSheet_271: 472373594
+      SuperMetroidSpriteSheet_272: -1225152523
+      SuperMetroidSpriteSheet_273: -1650343145
+      SuperMetroidSpriteSheet_274: -47326047
+      SuperMetroidSpriteSheet_275: 294195310
+      SuperMetroidSpriteSheet_276: -1002323922
+      SuperMetroidSpriteSheet_277: -1291603778
+      SuperMetroidSpriteSheet_278: -184515780
+      SuperMetroidSpriteSheet_279: -858255040
+      SuperMetroidSpriteSheet_28: 552372054
+      SuperMetroidSpriteSheet_280: -1766562006
+      SuperMetroidSpriteSheet_281: -900647446
+      SuperMetroidSpriteSheet_282: -1987564409
+      SuperMetroidSpriteSheet_283: 1583365027
+      SuperMetroidSpriteSheet_284: -1314078558
+      SuperMetroidSpriteSheet_29: -1208851053
+      SuperMetroidSpriteSheet_3: -987928512
+      SuperMetroidSpriteSheet_30: 1437651589
+      SuperMetroidSpriteSheet_31: 643716664
+      SuperMetroidSpriteSheet_32: 1390746432
+      SuperMetroidSpriteSheet_33: -1575658531
+      SuperMetroidSpriteSheet_34: -1131433645
+      SuperMetroidSpriteSheet_35: 1298518355
+      SuperMetroidSpriteSheet_36: 639954117
+      SuperMetroidSpriteSheet_37: 1574751333
+      SuperMetroidSpriteSheet_38: 754913877
+      SuperMetroidSpriteSheet_39: -1046109744
+      SuperMetroidSpriteSheet_4: 1010378865
+      SuperMetroidSpriteSheet_40: -2065321203
+      SuperMetroidSpriteSheet_41: -1591967864
+      SuperMetroidSpriteSheet_42: -355703631
+      SuperMetroidSpriteSheet_43: -1273449112
+      SuperMetroidSpriteSheet_44: -521391132
+      SuperMetroidSpriteSheet_45: -190370223
+      SuperMetroidSpriteSheet_46: -1349502589
+      SuperMetroidSpriteSheet_47: -1999568203
+      SuperMetroidSpriteSheet_48: 1821947848
+      SuperMetroidSpriteSheet_49: -1174699437
+      SuperMetroidSpriteSheet_5: 1703166084
+      SuperMetroidSpriteSheet_50: 1279780812
+      SuperMetroidSpriteSheet_51: -1912403609
+      SuperMetroidSpriteSheet_52: -1034589042
+      SuperMetroidSpriteSheet_53: 251459402
+      SuperMetroidSpriteSheet_54: -2022511579
+      SuperMetroidSpriteSheet_55: -1138493474
+      SuperMetroidSpriteSheet_56: -569435562
+      SuperMetroidSpriteSheet_57: 68828585
+      SuperMetroidSpriteSheet_58: -600811162
+      SuperMetroidSpriteSheet_59: 1135272623
+      SuperMetroidSpriteSheet_6: 1048413027
+      SuperMetroidSpriteSheet_60: -1808247094
+      SuperMetroidSpriteSheet_61: -1173645368
+      SuperMetroidSpriteSheet_62: -104981418
+      SuperMetroidSpriteSheet_63: 1084618960
+      SuperMetroidSpriteSheet_64: 294976902
+      SuperMetroidSpriteSheet_65: -242888245
+      SuperMetroidSpriteSheet_66: -1826084996
+      SuperMetroidSpriteSheet_67: 603929265
+      SuperMetroidSpriteSheet_68: 415958665
+      SuperMetroidSpriteSheet_69: -648260118
+      SuperMetroidSpriteSheet_7: -627354126
+      SuperMetroidSpriteSheet_70: -1560272451
+      SuperMetroidSpriteSheet_71: 1291974537
+      SuperMetroidSpriteSheet_72: 95892052
+      SuperMetroidSpriteSheet_73: -1836902293
+      SuperMetroidSpriteSheet_74: 629015713
+      SuperMetroidSpriteSheet_75: -982645461
+      SuperMetroidSpriteSheet_76: -1586541167
+      SuperMetroidSpriteSheet_77: -706404258
+      SuperMetroidSpriteSheet_78: 2012211612
+      SuperMetroidSpriteSheet_79: 1816305373
+      SuperMetroidSpriteSheet_8: -450909269
+      SuperMetroidSpriteSheet_80: -1893512161
+      SuperMetroidSpriteSheet_81: -881808433
+      SuperMetroidSpriteSheet_82: 30964260
+      SuperMetroidSpriteSheet_83: -204586985
+      SuperMetroidSpriteSheet_84: -1953066823
+      SuperMetroidSpriteSheet_85: -1287033041
+      SuperMetroidSpriteSheet_86: -713623198
+      SuperMetroidSpriteSheet_87: -2025698350
+      SuperMetroidSpriteSheet_88: 1208552607
+      SuperMetroidSpriteSheet_89: -757500980
+      SuperMetroidSpriteSheet_9: -920515242
+      SuperMetroidSpriteSheet_90: -1320410896
+      SuperMetroidSpriteSheet_91: 2116632217
+      SuperMetroidSpriteSheet_92: -1366506066
+      SuperMetroidSpriteSheet_93: 2083986481
+      SuperMetroidSpriteSheet_94: -1022422004
+      SuperMetroidSpriteSheet_95: -1769014391
+      SuperMetroidSpriteSheet_96: 1392839871
+      SuperMetroidSpriteSheet_97: 828474405
+      SuperMetroidSpriteSheet_98: -2107050926
+      SuperMetroidSpriteSheet_99: 1809426498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
