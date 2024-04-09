@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Untitled Mech Game.sln",
+    "dotnet.defaultSolution": "mech_game.sln",
     "dotnet.preferCSharpExtension": true
 }
